@@ -1,0 +1,1 @@
+This folder is supposed to have any outputs, e.g., graphs that are useful for reporting.
